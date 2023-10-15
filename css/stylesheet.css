@@ -18,18 +18,27 @@ h1{
 
 P{
   color: HoneyDew;
+  font-size: 30px;
 }
 
 input[type="email"] {
   background-color: #PapayaWhip;
-  opacity: 0.7;
-  border: 0; 
+  opacity: 0.3;
+  border: 1; 
   padding: 20px;
 }
 
 input[type="text"] {
-  background-color: #PapayaWhip;
-  opacity: 0.7;
-  border: 0; 
+  background-color: #PaleGoldenRod;
+  opacity: 0.3;
+  border: 1; 
   padding: 20px;
 }
+
+input [type="tel"] {
+  background-color: #PapayaWhip;
+  opacity: 0.3;
+  border: 1; 
+  padding: 20px;
+}
+
