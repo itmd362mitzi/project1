@@ -22,23 +22,27 @@ P{
 }
 
 input[type="email"] {
-  background-color: #PapayaWhip;
+  background-color: PapayaWhip;
   opacity: 0.3;
   border: 1; 
   padding: 20px;
 }
 
 input[type="text"] {
-  background-color: #PaleGoldenRod;
+  background-color: PaleGoldenRod;
   opacity: 0.3;
   border: 1; 
   padding: 20px;
 }
 
-input [type="tel"] {
-  background-color: #PapayaWhip;
+input[type="tel"] {
+  background-color: PapayaWhip;
   opacity: 0.3;
   border: 1; 
   padding: 20px;
 }
-
+input[type="submit"] {
+  background-color: PaleGoldenRod;
+  border: 3; 
+  padding: 45px;
+}
