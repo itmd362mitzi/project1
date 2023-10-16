@@ -20,6 +20,9 @@ h1{
 P{
   color: HoneyDew;
   font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-family: "Grandstander", cursive, serif;
 }
 
 input[type="email"] {
@@ -29,6 +32,7 @@ input[type="email"] {
   padding: 20px;
   font-family: "Kurale", cursive, serif;
   font-size: 30px;
+  font-family: "Grandstander", cursive, serif;
 }
 
 input[type="text"] {
@@ -36,6 +40,7 @@ input[type="text"] {
   opacity: 0.3;
   border: 1; 
   padding: 20px;
+  font-family: "Grandstander", cursive, serif;
 }
 
 input[type="tel"] {
@@ -43,9 +48,11 @@ input[type="tel"] {
   opacity: 0.3;
   border: 1; 
   padding: 20px;
+  font-family: "Grandstander", cursive, serif;
 }
 input[type="submit"] {
   background-color: PaleGoldenRod;
-  border: 3; 
-  padding: 25px;
+  border: 2; 
+  padding: 15px;
+  font-family: "Grandstander", cursive, serif;
 }
