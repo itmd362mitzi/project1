@@ -44,5 +44,5 @@ input[type="tel"] {
 input[type="submit"] {
   background-color: PaleGoldenRod;
   border: 3; 
-  padding: 45px;
+  padding: 25px;
 }
