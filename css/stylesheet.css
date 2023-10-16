@@ -11,9 +11,10 @@ body{
 
 h1{
   color: FloralWhite;
-  font-size: 40px;
-  padding-top: 30px;
+  font-size: 75px;
+  padding-top: 50px;
   padding-bottom: 30px;
+  font-family: "Grandstander", cursive, serif;
 }
 
 P{
@@ -26,6 +27,8 @@ input[type="email"] {
   opacity: 0.3;
   border: 1; 
   padding: 20px;
+  font-family: "Kurale", cursive, serif;
+  font-size: 30px;
 }
 
 input[type="text"] {
