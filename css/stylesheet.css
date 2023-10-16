@@ -60,7 +60,8 @@ input[type="tel"] {
 input[type="submit"] {
   background-color: PaleGoldenRod;
   border: 2; 
-  padding: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   font-size: 25px;
   font-family: "Kurale", cursive, serif;
 }
