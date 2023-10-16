@@ -1,3 +1,8 @@
+img {
+ width: 100%;
+ height: auto;
+}
+
 main {
   text-align: center;
   padding-top: 50px;
@@ -22,7 +27,7 @@ P{
   font-size: 30px;
   padding-top: 20px;
   padding-bottom: 30px;
-  font-family: "Grandstander", cursive, serif;
+  font-family: "Kurale", cursive, serif;
 }
 
 input[type="email"] {
@@ -31,7 +36,7 @@ input[type="email"] {
   border: 1; 
   padding: 20px;
   font-family: "Kurale", cursive, serif;
-  font-size: 30px;
+  font-size: 25px;
   font-family: "Grandstander", cursive, serif;
 }
 
@@ -40,6 +45,7 @@ input[type="text"] {
   opacity: 0.3;
   border: 1; 
   padding: 20px;
+  font-size: 25px;
   font-family: "Grandstander", cursive, serif;
 }
 
@@ -48,11 +54,14 @@ input[type="tel"] {
   opacity: 0.3;
   border: 1; 
   padding: 20px;
+  font-size: 25px;
   font-family: "Grandstander", cursive, serif;
 }
+
 input[type="submit"] {
   background-color: PaleGoldenRod;
   border: 2; 
   padding: 15px;
-  font-family: "Grandstander", cursive, serif;
+  font-size: 25px;
+  font-family: "Kurale", cursive, serif;
 }
