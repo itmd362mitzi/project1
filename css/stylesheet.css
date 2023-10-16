@@ -68,7 +68,12 @@ input[type="submit"] {
 
 label[for="email"] {
   color: PaleGoldenRod;
-  font-size: 75px;
+  font-size: 40px;
   font-family: "Kurale", cursive, serif;
 }
-   
+
+ul <id="fname"> {
+  color: PaleGoldenRod;
+  font-size: 40px;
+  font-family: "Kurale", cursive, serif;
+}
