@@ -35,7 +35,6 @@ input[type="email"] {
   opacity: 0.3;
   border: 1; 
   padding: 20px;
-  font-family: "Kurale", cursive, serif;
   font-size: 25px;
   font-family: "Grandstander", cursive, serif;
 }
@@ -68,24 +67,24 @@ input[type="submit"] {
 
 label[for="email"] {
   color: PaleGoldenRod;
-  font-size: 40px;
+  font-size: 30px;
   font-family: "Kurale", cursive, serif;
 }
 
 label[for="fname"] {
   color: PaleGoldenRod;
-  font-size: 40px;
+  font-size: 30px;
   font-family: "Kurale", cursive, serif;
 }
 
 label[for="lname"] {
   color: PaleGoldenRod;
-  font-size: 40px;
+  font-size: 30px;
   font-family: "Kurale", cursive, serif;
 }
 
 label[for="tel"] {
   color: PaleGoldenRod;
-  font-size: 40px;
-  font-family: "Kurale", cursive, serif;
+  font-size: 30px;
+  font-family: "Grandstander", cursive, serif;
 }
