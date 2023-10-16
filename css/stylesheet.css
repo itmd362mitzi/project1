@@ -72,7 +72,19 @@ label[for="email"] {
   font-family: "Kurale", cursive, serif;
 }
 
-ul <id="fname"> {
+label[for="fname"] {
+  color: PaleGoldenRod;
+  font-size: 40px;
+  font-family: "Kurale", cursive, serif;
+}
+
+label[for="lname"] {
+  color: PaleGoldenRod;
+  font-size: 40px;
+  font-family: "Kurale", cursive, serif;
+}
+
+label[for="tel"] {
   color: PaleGoldenRod;
   font-size: 40px;
   font-family: "Kurale", cursive, serif;
