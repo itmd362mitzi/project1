@@ -65,3 +65,10 @@ input[type="submit"] {
   font-size: 25px;
   font-family: "Kurale", cursive, serif;
 }
+
+label[for="email"] {
+  color: PaleGoldenRod;
+  font-size: 75px;
+  font-family: "Kurale", cursive, serif;
+}
+   
