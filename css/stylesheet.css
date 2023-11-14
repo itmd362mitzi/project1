@@ -101,12 +101,17 @@ label[for="tel"] {
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 900px) {
   main {
     width: 100%;
   }
   img {
    width: 100%;
   }
+ .input {
+  display: flex;
+  vertical-align: text-top;
+  text-align: center;
+ }
 }
     
